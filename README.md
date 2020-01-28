@@ -1,4 +1,4 @@
-# Impact 2019 - App Pipelines in IoT
+# Impact 2020 - App Pipelines in IoT
 
 https://github.com/JockDaRock/impact19-cicd-ws
 
